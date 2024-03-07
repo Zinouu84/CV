@@ -1,0 +1,77 @@
+.titre1{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+.contenu1 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+
+#mail {
+    position: relative;
+    left: 250px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: italic;
+    font-size: small;
+}
+#phonenumber {
+    position: relative;
+    left: 620px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: italic;
+    font-size: small;
+}
+#adresse {
+    position: relative;
+    left: 30px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: italic;
+    font-size: small;
+}
+
+.Titre2 {
+    text-indent: 20px;
+    background-color: #dbc2a4;
+    text-align: start;
+    width: 250px;
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.contenu2 {
+    text-align: start;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+.contenu3 {
+    text-align: start;
+    block-size: 200px;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+.Titre3 {
+    text-indent: 50px;
+    background-color: #dbc2a4;
+    width: 750px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+#Icone {
+    height: 40px;
+}
